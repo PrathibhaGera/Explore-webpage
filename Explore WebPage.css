@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo-title {
+    font-size: 22px;
+    font-family: "Bree serif";
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Bree serif";
+    font-size: 20px;
+    padding-right: 15px;
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Bree serif";
+    font-size: 20px;
+    padding-right: 15px;
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Bree serif";
+    font-size: 20px;
+    padding-right: 15px;
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Bree serif";
+    font-size: 20px;
+    padding-right: 15px;
+}
+
+.banner-section {
+    background-image: url("https://res.cloudinary.com/drdkzqqhn/image/upload/v1689416784/abstract-futuristic-background-with-3d-design_guwixr.jpg");
+    height: 75vh;
+    background-size: cover;
+}
+
+.banner-section-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+.custom-button {
+    color: white;
+    background-color: transparent;
+    height: 40px;
+    width: 130px;
+    font-size: 15px;
+    font-weight: bold;
+    border-color: lightblue;
+    border-width: 3px;
+    border-radius: 10px;
+    padding-left: 0px;
+    margin: 10px;
+}
+
+.journals-main-heading {
+    color: #323f4b;
+    font-family: "Bree serif";
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 24px;
+}
+
+.journals-item-card {
+    border-radius: 15px;
+}
+
+.journals-cards-title {
+    color: #4682B4;
+    font-family: "bree serif";
+    font-size: 16px;
+    font-weight: bold;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.journals-card-image {
+    text-align: center;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.journals-card-image2 {
+    width: 60%;
+}
+
+.conference-bg-container {
+    width: 100vw;
+    background-color: #f9fbfe;
+}
+
+.conference-image {
+    height: 80%;
+    width: 100%;
+}
+
+.conference-description {
+    color: #000000;
+    font-family: "sylfanm";
+    font-size: 15px;
+
+}
+
+.menu-item-link {
+    color: #483D8B;
+    font-family: "Segoe UI";
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.ul-items {
+    color: #000000;
+    font-family: "Times New Roman";
+    font-size: 13px;
+    list-style-type: none;
+    padding-left: 5px;
+}
+
+.follow-us {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.footer-section {
+    background-color: #183b56;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.author-services-description {
+    color: #000000;
+    font-family: "sylfanm";
+    font-size: 15px;
+}
+
+.span-titles {
+    color: #000000;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.why-services-bg {
+    width: 100vw;
+    background-color: #f9fbfe;
+}
